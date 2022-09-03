@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/ReactAppDeployGitGub",
+  "start_url": "ReactAppDeployGitGub",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
